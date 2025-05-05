@@ -1,0 +1,39 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Environment-dependent path to Maven home directory
+/mavenHomeManager.xml
+
+# Compilados de Java
+*.class
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados por NetBeans
+nbproject/private/
+build/
+dist/
+.nb-gradle/
+*.log
+
+# Archivos de configuración del IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Archivos de entorno
+.env
+*.swp
+*~
+
+# Datos generados
+*.csv
+*.bak
+*.tmp
+*.log
+
+# Otros archivos que generes automáticamente
+user_data_RDALL.csv
